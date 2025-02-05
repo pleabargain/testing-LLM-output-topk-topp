@@ -1,5 +1,8 @@
 # LLM Parameter Testing Framework
 
+# repo
+https://github.com/pleabargain/testing-LLM-output-topk-topp
+
 # motivation
 I realized that I didn't fully understand top-p and top-k parameters. I wanted to test how they affect the output of a LLM.
 
